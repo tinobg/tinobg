@@ -27,29 +27,29 @@
 <h2 align="center">🧰 My Tech Stack</h2>
 
 #### 🚀 Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40"/><br>JavaScript
+
+  <img src="https://skillicons.dev/icons?i=js" height="40"/>JavaScript
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="40"/><br>HTML
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>HTML
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="40"/><br>CSS
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>CSS
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="40"/><br>C++
+  <img src="https://skillicons.dev/icons?i=cpp" height="40"/>C++
 </div>
 
 <br>
 
 #### 🛠️ Tools & Frameworks
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="40"/><br>React
+
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>React
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br>Node.js
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>Node.js
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="40"/><br>Git
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>Git
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40"/><br>GitHub
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>GitHub
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/><br>VS Code
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>VS Code
 </div>
 
 ---
